@@ -1,0 +1,7 @@
+Test,20
+Test,20
+Aaa,50
+B,20
+Mykyta,1300
+Adam,2000
+Test,7140
